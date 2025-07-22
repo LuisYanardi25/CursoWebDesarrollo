@@ -1,0 +1,1 @@
+El display flex siempre va en el padre, alinea todo de forma horizontal
